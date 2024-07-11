@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)}
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding...." width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
