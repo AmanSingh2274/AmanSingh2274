@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aman48112@gmail.com**
 
-- ⚡ Fun fact **Coding is Hard**
+- ⚡ Fun fact **Github is Hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
