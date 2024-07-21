@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding...." width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh2274&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh2274" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=amansingh2274&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh2274" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amansingh_rjpt" target="blank"><img src="https://img.shields.io/twitter/follow/amansingh_rjpt?logo=twitter&style=for-the-badge" alt="amansingh_rjpt" /></a> </p>
 
