@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amansingh_rjpt" target="blank"><img src="https://img.shields.io/twitter/follow/amansingh_rjpt?logo=twitter&style=for-the-badge" alt="amansingh_rjpt"/></a> </p>
 
-- 🔭 I’m currently working on **Java Development **
+- 🔭 I’m currently working on **Java Development**
 
 - 🌱 I’m currently learning **Java, Web Development, DSA**
 
