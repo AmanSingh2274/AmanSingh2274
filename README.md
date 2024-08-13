@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amansingh_rjpt" target="blank"><img src="https://img.shields.io/twitter/follow/amansingh_rjpt?logo=twitter&style=for-the-badge" alt="amansingh_rjpt"/></a> </p>
 
-- 🔭 I’m currently working on **HealthConnect Website**
+- 🔭 I’m currently working on **Java Development **
 
 - 🌱 I’m currently learning **Java, Web Development, DSA**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aman48112@gmail.com**
 
-- ⚡ Fun fact **Github is Hard**
+- ⚡ Fun fact **The first computer "bug" was an actual moth found in a Harvard Mark II computer in 1947**
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
